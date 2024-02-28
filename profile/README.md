@@ -1,4 +1,4 @@
-![generic-feature-image-2](https://user-images.githubusercontent.com/77571833/185617842-a4bbda4e-a441-4327-828e-a4472db5d9f9.png)
+![preview_thumbnail_4](https://github.com/nearform/.github/assets/110472631/c8d57b9d-e30b-49af-a522-cd52533fb0a7)
 
 # Nearform
 ## Building enduring impact_ 
